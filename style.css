@@ -333,28 +333,16 @@
 } */
 
 .album-img,.album-desc,.fa-heart,.fa-laptop{
-  margin-right: 0.9rem;
+  margin-right: 1rem;
 }
 
-.fa-laptop{
+.fa-laptop,.fa-heart{
   opacity: 0.7;
-  margin-right: 2rem;
 }
 
-.fa-laptop:hover{
+.fa-laptop:hover,.fa-heart:hover{
   opacity: 1;
 }
-.fa-heart{
-  opacity: 0.7;
-  margin-right: 0.5rem;
-}
-
-.fa-heart:hover{
-  opacity: 1;
-}
-
-
-
 .album-img{
   height: 2.75rem;
   width: 2.75rem;
